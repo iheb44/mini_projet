@@ -1,0 +1,38 @@
+body {
+    background-color: #f7f7f7;
+  }
+
+  .table td {
+    vertical-align: middle;
+  }
+
+  .navbar-default .navbar-nav>li>a {
+    color: black;
+  }
+
+  .table .btn {
+    padding: 6px 12px;
+    font-size: 14px;
+    margin-top: 2px;
+  }
+
+  .table thead th {
+    vertical-align: middle;
+    text-align: center;
+    background-color: grey;
+    color: white;
+  }
+
+  .form-control {
+    font-size: 14px;
+  }
+
+.table td {
+  vertical-align: middle !important;
+}
+
+.book-image {
+  width: 100%;
+  max-width: 85px;
+  height: auto;
+}
